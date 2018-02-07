@@ -1,7 +1,7 @@
-TITLE	Combinations Calculator		(Prog06B.asm)
+TITLE	Combinations Calculator	
 
-; Author: Kenny Ngo
-; Course / Project ID: CS271 / Assignment 6B                 Date: 06/11/17
+; Author: 		Kenny Ngo
+; Date: 		06/11/17
 ; Description:	A system is required for statistics students to use for drill and practice in combinatorics.
 ; In particular, thesystem will ask the student to calculate the number of combinations of r items taken from
 ; a set of n items (i.e., nCr ). The system generates random problems with n in [3 .. 12] and r in [1 .. n].
