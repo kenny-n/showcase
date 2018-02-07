@@ -4,6 +4,10 @@
 
 # Show & Tell
 Examples of coursework from Oregon State University's Computer Science program
+[Combinations Calculator](https://github.com/kenny-n/showcase/tree/master/CombinationsCalc)
+[Dungeon Crawl](https://github.com/kenny-n/showcase/tree/master/DungeonCrawl)
+[Tic Tac Toe](https://github.com/kenny-n/showcase/tree/master/TicTacToe)
+
 
 ## Oregon State University Computer Science Degree Progress
 | Course # | Course Name | Description | Status
