@@ -1,6 +1,6 @@
 # Show & Tell
 Examples of coursework from Oregon State University's Computer Science program
-
+# Oregon State University Computer Science Degree Progress
 | Course # | Course Name | Description | Status
 |--|--|--|--|
 | 161 | Intro to CS I | Overview of fundamental concepts of computer science. Programming in C++. | Complete |
@@ -11,3 +11,4 @@ Examples of coursework from Oregon State University's Computer Science program
 | 290 | Web Development | Techniques and tools for designing developing, publishing, and maintaining dynamic websites on the World Wide Web. | Complete |
 | 340 | Intro to Databases | Design and implementation of relational databases. | In Progress |
 | 344 | Operating Systems | Introduction to operating systems using UNIX as the case study. System calls and utilities, fundamentals of processes and interprocess communication. | In Progress |
+
