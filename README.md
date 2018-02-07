@@ -1,6 +1,7 @@
 # Show & Tell
 Examples of coursework from Oregon State University's Computer Science program
-# Oregon State University Computer Science Degree Progress
+
+## Oregon State University Computer Science Degree Progress
 | Course # | Course Name | Description | Status
 |--|--|--|--|
 | 161 | Intro to CS I | Overview of fundamental concepts of computer science. Programming in C++. | Complete |
