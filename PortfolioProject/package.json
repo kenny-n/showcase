@@ -1,0 +1,28 @@
+{
+  "name": "kenngosite",
+  "version": "1.0.0",
+  "description": "Kenny Ngo's personal website for professional development.",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Ngo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "forever": "^0.15.3"
+  },
+  "engines": {
+    "node": "4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-en/folio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/k-en/folio/issues"
+  },
+  "homepage": "https://github.com/k-en/folio#readme"
+}

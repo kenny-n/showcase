@@ -1,0 +1,96 @@
+/* ---All---*/
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0 auto;
+}
+
+a {
+  color: darkslategrey;
+}
+
+.logo img {
+  display: block;
+  margin: 0 auto;
+  max-height: 100px;
+}
+
+.navbar {
+  display: block;
+  text-align: center;
+  min-height: 0px;
+}
+
+.navbar-nav {
+  display: inline-block;
+  float: none;
+  padding-bottom: 0px;
+}
+
+/*---End All---*/
+
+/*---Home---*/
+.carousel-inner > .item > img {
+  margin: 0 auto;
+  width: 100%;
+}
+/*---End Home---*/
+
+/*---About---*/
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+  padding-top: 0;
+  margin-bottom: 10px;
+  border-radius: 15px;;
+  background-color: darkslategrey;
+  color: white;
+}
+
+.profile {
+  border: 5px solid ivory;
+  border-radius: 50%;
+  margin: 0 auto;
+  max-width: 75%;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.profile img {
+  display: block;
+  margin: 0 auto;
+}
+
+/*---End About---*/
+
+/*---Solutions---*/
+.fixed {
+  overflow: hidden;
+}
+
+.scroll {
+  overflow: scroll;
+  height: 200px;
+}
+
+.questions {
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+/*---End Solutions---*/
+
+/*---Contact---*/
+.social > ul {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.social > ul > li {
+  list-style: none;
+  text-align: center;
+}
+/*---End Contact---*/
