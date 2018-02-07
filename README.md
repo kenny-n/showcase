@@ -1,6 +1,6 @@
-[My Resume](https://github.com/kenny-n/showcase/raw/master/resume.pdf)
+## [My Resume](https://github.com/kenny-n/showcase/raw/master/resume.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/ken-ngo/)
+## [LinkedIn](https://www.linkedin.com/in/ken-ngo/)
 
 # Show & Tell
 Examples of coursework from Oregon State University's Computer Science program
